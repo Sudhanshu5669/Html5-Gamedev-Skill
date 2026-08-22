@@ -1,0 +1,13 @@
+{
+  "name": "html5-gamedev",
+  "owner": {
+    "name": "Sudhanshu5669"
+  },
+  "plugins": [
+    {
+      "name": "game-dev",
+      "source": "./",
+      "description": "Discovery-interview to system-by-system build-and-test workflow for 2D HTML5 browser games."
+    }
+  ]
+}

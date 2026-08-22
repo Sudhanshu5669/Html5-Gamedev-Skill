@@ -1,0 +1,9 @@
+{
+  "name": "game-dev",
+  "description": "Discovery-interview to system-by-system build-and-test workflow for 2D HTML5 browser games.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Sudhanshu5669"
+  },
+  "skills": ["./.claude/skills/"]
+}
